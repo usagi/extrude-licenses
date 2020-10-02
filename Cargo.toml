@@ -1,0 +1,19 @@
+[package]
+authors = ["USAGI.NETWORK / Usagi Ito <the@usagi.network>"]
+categories = ["command-line-utilities"]
+description = "This is a extruder(≈ a formatter with a user template) for licenses of a Rust and Node.js project."
+documentation = "https://docs.rs/extrude-licenses"
+edition = "2018"
+keywords = ["license", "template", "formatter", "cargo-toml", "package-json"]
+license = "MIT"
+name = "extrude-licenses"
+readme = "README.md"
+repository = "https://github.com/usagi/extrude-licenses"
+version = "1.0.0"
+
+[dependencies]
+clap = "2.33.3"
+regex = "1.3.9"
+serde = {version = "1.0.116", features = ["derive"]}
+serde_derive = "1.0.116"
+serde_json = "1.0.58"

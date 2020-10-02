@@ -1,0 +1,42 @@
+{
+  "anymatch@1.3.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/es128/anymatch",
+    "publisher": "Elan Shanker",
+    "url": "http://github.com/es128",
+    "path": "C:\\Users\\usagi\\tmp\\jjj\\node_modules\\anymatch",
+    "licenseFile": "node_modules\\anymatch\\LICENSE"
+  },
+  "arr-diff@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/arr-diff",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\usagi\\tmp\\jjj\\node_modules\\micromatch\\node_modules\\arr-diff",
+    "licenseFile": "node_modules\\micromatch\\node_modules\\arr-diff\\LICENSE"
+  },
+  "arr-diff@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/arr-diff",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\usagi\\tmp\\jjj\\node_modules\\arr-diff",
+    "licenseFile": "node_modules\\arr-diff\\LICENSE"
+  },
+  "arr-flatten@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/arr-flatten",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\usagi\\tmp\\jjj\\node_modules\\arr-flatten",
+    "licenseFile": "node_modules\\arr-flatten\\LICENSE"
+  },
+  "arr-union@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/arr-union",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\usagi\\tmp\\jjj\\node_modules\\arr-union",
+    "licenseFile": "node_modules\\arr-union\\LICENSE"
+  }
+}
